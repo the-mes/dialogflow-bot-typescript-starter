@@ -1,4 +1,4 @@
-# Dialogflow Bot Starter
+# Dialogflow Bot TypeScript Starter
 
 ## About
 
@@ -9,13 +9,13 @@
 ##### 1. Clone repo
 
 ```sh
-git clone https://github.com/the-mes/dialogflow-bot-starter.git
+git clone https://github.com/the-mes/dialogflow-bot-typescript-starter.git
 ```
 
 ##### 2. Go to project directory
 
 ```sh
-cd dialogflow-bot-starter
+cd dialogflow-bot-typescript-starter
 ```
 
 ##### 3. Set environment variables
