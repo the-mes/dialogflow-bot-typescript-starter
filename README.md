@@ -1,21 +1,21 @@
-# Air Bot
+# Dialogflow Bot Starter
 
 ## About
 
-Check air pollution in cities around the world via the Dialogflow bot.
+<!-- TODO -->
 
 ## Setup
 
 ##### 1. Clone repo
 
 ```sh
-git clone https://github.com/great-bots/air-bot.git
+git clone https://github.com/the-mes/dialogflow-bot-starter.git
 ```
 
 ##### 2. Go to project directory
 
 ```sh
-cd air-bot
+cd dialogflow-bot-starter
 ```
 
 ##### 3. Set environment variables
@@ -52,8 +52,7 @@ yarn start
 - [Dialogflow](https://dialogflow.com/)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Airly API](https://developer.airly.eu/api/)
 
 ## License
 
-This project is licensed under the MIT License © 2020-present Jakub Biesiada
+This project is licensed under the MIT License © 2021-present Jakub Biesiada
