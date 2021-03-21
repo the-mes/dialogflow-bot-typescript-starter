@@ -2,7 +2,7 @@
 
 ## About
 
-<!-- TODO -->
+Template for Dialogflow Bot build with TypeScript
 
 ## Setup
 

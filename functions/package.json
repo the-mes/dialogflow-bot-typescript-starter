@@ -1,7 +1,7 @@
 {
   "name": "dialogflow-bot-typescript-starter",
   "version": "1.0.0",
-  "description": "<TODO>",
+  "description": "Template for Dialogflow Bot build with TypeScript",
   "author": "Jakub Biesiada",
   "license": "MIT",
   "main": "lib/index.js",
