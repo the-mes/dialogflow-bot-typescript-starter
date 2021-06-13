@@ -16,7 +16,6 @@
     "logs": "firebase functions:log"
   },
   "engines": {
-    "//TODO": "",
     "node": "10"
   },
   "dependencies": {
